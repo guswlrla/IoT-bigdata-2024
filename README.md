@@ -13,10 +13,10 @@ IoT 개발자과정 빅데이터분석 및 인공지능 학습 리포지토리
         - 첫화면에 검색된 화장품 1~3위를 디스플레이
 
 ### 2. 빅데이터?
-    - 빅데이터(Big Data) : 디지털환경에서 발생하는 대규모 정형 또는 비정형데이터
-    - 3V - Volume(크기, 규모), Variety(다양성), Velocity(속도)
-    - 5V - 3V + Veracity(진실성), Value(가치)
-    - 7V - 5V + Validity(정확성), Volatility(휘발성 : 데이터가 얼마나 오래 저장, 사용되는가)
+- 빅데이터(Big Data) : 디지털환경에서 발생하는 대규모 정형 또는 비정형데이터
+- 3V - Volume(크기, 규모), Variety(다양성), Velocity(속도)
+- 5V - 3V + Veracity(진실성), Value(가치)
+- 7V - 5V + Validity(정확성), Volatility(휘발성 : 데이터가 얼마나 오래 저장, 사용되는가)
 
 ### 3.  데이터?
 - 정보를 수집자료 자체, 값, 총계 + 가치(Value) = 정보(Information)

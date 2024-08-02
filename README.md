@@ -44,3 +44,11 @@
     - [pandas](https://github.com/guswlrla/IoT-bigdata-2024/blob/main/day01/bda02_pandas_basic.ipynb)
     - [matplotlib](https://github.com/guswlrla/IoT-bigdata-2024/blob/main/day01/bda03_matplotlib_basic.ipynb)
 
+## :white_check_mark: 2일차
+### 1. 빅데이터 기초학습 
+- 크롤링 관련
+- 셀레니움 + 뷰티풀수프 같이 진행
+    - [BeautifulSoup]()
+    - [Selenium]()
+- 빅데이터 실습
+    - [스타벅스입지분석]()
